@@ -1,0 +1,13 @@
+
+============AVL============
+Tempo total de jogo do jogador 1: 977.57 horas
+Numero de comparacoes: 57
+Altura da arvore AVL: 6
+Numero de rotacoes: 90
+Numero de nodos: 99
+
+============ABP============
+Tempo total de jogo do jogador 2: 977.57 horas
+Numero de comparacoes: 474
+Altura da arvore ABP: 88
+Numero de nodos: 99
